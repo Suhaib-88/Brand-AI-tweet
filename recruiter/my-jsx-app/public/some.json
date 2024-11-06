@@ -1,0 +1,30 @@
+
+{
+  "candidates": [
+    {
+      "name": "Abdelhamid Mohamed",
+      "educational_background": "Not Found",
+      "experience": "Senior Software Project Manager, Flairstech",
+      "skills": "Not Found",
+      "justification": "Although I couldn't find direct information about Abdelhamid Mohamed, I found a few profiles with similar names that mention PMP certification, which is a preferred qualification for the job. Additionally, I found a profile of an Abdul Mohammed with PMP certification in Hyderabad, which might be a potential match.",
+      "score": 70
+    },
+    {
+      "name": "Rakesh Kumar",
+      "educational_background": "Not Found",
+      "experience": "Senior Project Manager",
+      "skills": "Agile, Project Management",
+      "justification": "Rakesh Kumar has relevant experience as a Senior Project Manager and has skills in Agile and Project Management, which are key skills required for the job. However, I couldn't find information about his educational background or specific achievements.",
+      "score": 80
+    },
+    {
+      "name": "Syed Ali",
+      "educational_background": "Not Found",
+      "experience": "Senior Project Manager",
+      "skills": "Project Management, Agile",
+      "justification": "Syed Ali has relevant experience as a Senior Project Manager and has skills in Project Management and Agile, which are key skills required for the job. However, I couldn't find information about his educational background or specific achievements.",
+      "score": 80
+    }
+  ]
+}
+
